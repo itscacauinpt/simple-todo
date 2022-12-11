@@ -13,6 +13,7 @@
 > Mais:
 > - [ ] Typescript
 > - [ ] Novo Layout
+> - [ ] Deploy
 > - [ ] Aplicar Testes
 
 Projeto de estudos, simples lista de afazeres.
